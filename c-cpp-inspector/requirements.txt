@@ -1,0 +1,3 @@
+gradio
+libclang>=14.0.0
+
